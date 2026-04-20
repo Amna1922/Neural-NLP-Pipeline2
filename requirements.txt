@@ -1,0 +1,7 @@
+# Requirements for NLP Assignment 2
+# Install with:  pip install -r requirements.txt
+
+torch>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
